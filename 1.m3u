@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:TRT1 https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg",ATV ᴴᴰ⁺™
+http://89.187.191.41:80/ATV-HD-TR/playlist.m3u8
