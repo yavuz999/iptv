@@ -1,2 +1,4 @@
 #EXTM3U
-#EXTINF:,TRT1,https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u
+#EXTINF:,TRT1 https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg",A2
+https://c.fulltvizle.com/a2/index.m3u8
